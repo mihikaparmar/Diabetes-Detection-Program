@@ -1,2 +1,2 @@
 # Diabetes-Detection-
-This Project in made in c++ using turbo c.
+This Project is made in c++ using turbo c.
